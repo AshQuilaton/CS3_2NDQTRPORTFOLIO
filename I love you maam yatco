@@ -1,0 +1,86 @@
+What do we use ?
+Text editor : vs code or notepad or notepad++ 
+Web server : Github
+
+What do we need for our own webstie? : 
+- Web server
+- Ip address
+- domain name
+
+What is an html element 
+- an html element is defined by a start+tag, some content and an end tag/
+" <()> " start tag
+" </___> " end tag
+
+"<TagName> Attributes
+ stuff stuff
+ </TagName>"
+  
+ # Block Elements
+ - occupies a defined width,
+ - starts on a new line
+ - margin before and after
+ example : <div>
+
+ # Inline elements
+ - occoupies an availble space only
+ - their width is based on their content only
+ Example: <span>
+
+ 
+ Structure of html
+ example code : 
+ <html>
+    <head>
+    <title>Page Title </title>
+    </head>
+    <body>
+        <h1>My first heading </h1>
+        <p> My first paragrpah,,,, BLUSHESSSS </p>
+    </body>
+</html>
+
+# HTML IS NOT CASE SENSITIVE
+
+# ELEMENTS 
+ - <p> : paragraph element
+ - <hr /> : draws a horizontal line
+ - <br /> : a new line
+
+# inside my booty (<head></head>)
+<meta name = "author" content=""/>
+- specifies the author of a webpage
+
+<meta name ="description" content=""/>
+- short description of the page
+- text often appears as a snippet in search engines
+
+
+# Text Context
+- Headings
+    - 6 headings
+    - size
+- Paragraph
+    - text under <p></p>
+- Lists
+    - two ways
+        1. Ordered List 
+        - uses <ol> 
+        <li> </li>
+        </ol>
+        2. Unordered List
+        <ul></ul>
+        3. Definition Lists
+        <dl></dl>
+- Quotations
+    - <quote></quote>
+- Citations
+    - <cite></cite>
+- Images
+    - <img>
+    - <img src ="image link address"> 
+
+
+- Aside - the element used to represent content that is INDERECTLY related
+- HTML is the root element of an html document (wehh???)
+- <link> tag will include the website icon on the browser tab
